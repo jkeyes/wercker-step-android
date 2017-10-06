@@ -3,4 +3,4 @@
 * On failed build, notify multiple users/channels with link to wercker.
 
 * set apk versionCode based on PR number
-* 
+* ...
